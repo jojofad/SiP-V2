@@ -1,3 +1,3 @@
 ### Sound and Image Processing
 
-![cossin_pattern_01](/images/cossin_pattern_01.png&s=200)
+![cossin_pattern_01](/images/cossin_pattern_01_small.png)
